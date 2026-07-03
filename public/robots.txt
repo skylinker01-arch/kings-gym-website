@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hello-sparkle-joy-23.lovable.app/sitemap.xml
